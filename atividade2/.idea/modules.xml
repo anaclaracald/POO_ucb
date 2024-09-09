@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/at1Estoque/at1Estoque.iml" filepath="$PROJECT_DIR$/at1Estoque/at1Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/at2Funcionario/at2Funcionario.iml" filepath="$PROJECT_DIR$/at2Funcionario/at2Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/at3Triangulos/at3Triangulos.iml" filepath="$PROJECT_DIR$/at3Triangulos/at3Triangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/at4Aluno/at4Aluno.iml" filepath="$PROJECT_DIR$/at4Aluno/at4Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividade2.iml" filepath="$PROJECT_DIR$/.idea/atividade2.iml" />
+    </modules>
+  </component>
+</project>
