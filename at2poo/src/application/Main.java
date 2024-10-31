@@ -43,6 +43,7 @@ public class Main {
                     break;
 
                 case 2:
+
                     System.out.println(pedido1);
                     break;
 
@@ -55,8 +56,8 @@ public class Main {
                         break;
                     }
 
-                    System.out.println("Produto removido!");
                     pedido1.removerProduto(codigo_input);
+                    System.out.println("Produto removido!");
                     break;
 
                 case 4:

@@ -32,7 +32,6 @@ public class Pedido {
         else if (valorTotal > 100)
             valorTotal -= valorTotal * 0.05;
 
-
         System.out.println("O valor final do seu pedido é de R$"+ String.format("%.2f", valorTotal));
     }
 
@@ -47,11 +46,6 @@ public class Pedido {
         valorTotal -= listaProdutos.get(i).preco;
         listaProdutos.remove(i);
         num_produtos--;
-
-        for (i = 0; i < num_produtos; i++) {
-            listaProdutos.get(i).codigo = i + 1;
-        }
-
     }
 
     @Override
